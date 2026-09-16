@@ -16,8 +16,8 @@
 
 ## Aidoku中文使用教程
 
-`https://github.com/rereva0611/aidoku-guide-zh`
-
+- [https://github.com/rereva0611/aidoku-guide-zh](https://github.com/rereva0611/aidoku-guide-zh)
+  
 ## 功能
 
 - 搜索漫画和使用标签筛选；
