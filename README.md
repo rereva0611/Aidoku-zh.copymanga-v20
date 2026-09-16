@@ -14,6 +14,10 @@
 2. 在设备上使用 Aidoku 打开该 `.aix` 文件。
 3. 确认安装后，在 Aidoku 的图源列表中使用拷贝漫画。
 
+## Aidoku中文使用教程
+
+`https://github.com/rereva0611/aidoku-guide-zh`
+
 ## 功能
 
 - 搜索漫画和使用标签筛选；
